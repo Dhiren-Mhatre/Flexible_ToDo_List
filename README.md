@@ -6,10 +6,6 @@ Welcome to the Todo List web app! This simple web application allows users to ma
 
 - [Features](#features)
 - [Demo](#demo)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
